@@ -1,0 +1,60 @@
+{
+  "common": {
+    "library": "Национальная библиотека им. А. Осмонова",
+    "dashboard": "Панель управления",
+    "catalog": "Каталог",
+    "users": "Пользователи",
+    "documents": "Документы",
+    "loans": "Выдача книг",
+    "logout": "Выйти",
+    "loading": "Загрузка...",
+    "search": "Поиск",
+    "filters": "Фильтры",
+    "actions": "Действия"
+  },
+  "dashboard": {
+    "totalBooks": "Всего книг",
+    "activeUsers": "Активные пользователи",
+    "totalLibraries": "Всего библиотек",
+    "activeLoans": "Активные выдачи",
+    "libraryDistribution": "Распределение библиотек",
+    "statistics": "Общая статистика",
+    "types": {
+      "republican": "Республиканские",
+      "regional": "Областные",
+      "district": "Районные",
+      "city": "Городские",
+      "children": "Детские",
+      "rural": "Сельские",
+      "branches": "Филиалы"
+    }
+  },
+  "auth": {
+    "welcome": "Добро пожаловать",
+    "register": "Регистрация",
+    "login": "Вход",
+    "email": "Электронная почта",
+    "password": "Пароль",
+    "confirmPassword": "Подтвердите пароль",
+    "name": "Имя",
+    "submit": "Отправить",
+    "switchToRegister": "Нет аккаунта? Зарегистрироваться",
+    "switchToLogin": "Уже есть аккаунт? Войти",
+    "passwordStrength": {
+      "weak": "Слабый",
+      "medium": "Средний",
+      "strong": "Сильный"
+    },
+    "errors": {
+      "required": "Это поле обязательно",
+      "email": "Неверный формат email",
+      "passwordMatch": "Пароли не совпадают",
+      "minLength": "Минимальная длина {{min}} символов",
+      "passwordRequirements": "Пароль должен содержать буквы, цифры и специальные символы"
+    }
+  },
+  "theme": {
+    "light": "Светлая тема",
+    "dark": "Темная тема"
+  }
+}

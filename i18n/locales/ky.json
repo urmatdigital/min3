@@ -1,0 +1,30 @@
+{
+  "auth": {
+    "welcome": "Кош келиңиз",
+    "register": "Каттоо",
+    "login": "Кирүү",
+    "email": "Электрондук почта",
+    "password": "Сырсөз",
+    "confirmPassword": "Сырсөздү ырастаңыз",
+    "name": "Аты",
+    "submit": "Жөнөтүү",
+    "switchToRegister": "Аккаунтуңуз жокпу? Катталуу",
+    "switchToLogin": "Аккаунтуңуз барбы? Кирүү",
+    "passwordStrength": {
+      "weak": "Начар",
+      "medium": "Орточо",
+      "strong": "Күчтүү"
+    },
+    "errors": {
+      "required": "Бул талаа милдеттүү",
+      "email": "Туура эмес email форматы",
+      "passwordMatch": "Сырсөздөр дал келбейт",
+      "minLength": "Минималдуу узундук {{min}} белги",
+      "passwordRequirements": "Сырсөз тамгаларды, сандарды жана атайын белгилерди камтышы керек"
+    }
+  },
+  "theme": {
+    "light": "Жарык тема",
+    "dark": "Караңгы тема"
+  }
+}
